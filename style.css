@@ -105,3 +105,13 @@ section img#mountains_front{
     position: relative;
     padding: 8vh 8vw;
 }
+
+.content h2{
+    font-size: 2.4rem;
+    color: #fff; 
+    margin-bottom: 1vh
+}
+
+.content p{
+    color: #fff
+}
